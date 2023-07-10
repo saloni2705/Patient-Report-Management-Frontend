@@ -1,0 +1,125 @@
+.login-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('Images/medical-banner-with-doctor-holding-stethoscope.jpg');
+    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)),
+      url("Images/medical-banner-with-doctor-holding-stethoscope.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .login-form {
+    background-color: transparent;
+    color: white;
+    
+  }
+  
+  .login-container {
+    width: 300px;
+    padding: 20px;
+    background-color: rgba(242, 242, 242, 0.8);
+    border: 1px solid #ccc;
+  }
+  
+  .login-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .login-error {
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  .login-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .login-label {
+    display: block;
+    font-weight: bold;
+    color: black;
+  }
+  
+  .login-input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .login-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #116d88;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  .custom-navbar {
+    background-color:#0a7686 ;
+  }
+  .register-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('Images/medical-banner-with-doctor-holding-stethoscope.jpg');
+    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)),
+      url("Images/medical-banner-with-doctor-holding-stethoscope.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .register-form {
+    background-color: transparent;
+    color: white;
+  }
+  
+  .register-container {
+    width: 300px;
+    padding: 20px;
+    background-color: rgba(242, 242, 242, 0.8);
+    border: 1px solid #ccc;
+  }
+  
+  .register-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .register-error {
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  .register-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .register-label {
+    display: block;
+    font-weight: bold;
+    color: black;
+  }
+  
+  .register-input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .register-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #116d88;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  
+  
